@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Events 2020
 
 You can use the [editor on GitHub](https://github.com/IEEE-CIS-GHRCE-62361B/Events2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
