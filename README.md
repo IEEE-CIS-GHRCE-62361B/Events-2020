@@ -19,7 +19,7 @@ The workshop covered:
 ***Date*** 24th Jan 2020
 
 ***Description***
-IEEE CIS SBC-GHRCE, Centre of Excellence in Artificial Intelligence & Machine Learning and the Department of Artificial Intelligence at G. H. Raisoni College of Engineering, Nagpur had organized a Round table discussion on A.I and it’s Security Aspects on 24th January 2020. The event was conducted under IEEE CIS Chapter – GHRCE. This was the second event conducted by IEEE CIS Chapter, GHRCE. The event was solely organised for all memebers of the CIS chapter. 
+IEEE CIS SBC-GHRCE had organized a Round table discussion on A.I and it’s Security Aspects on 24th January 2020. The event was conducted under IEEE CIS Chapter – GHRCE. This was the second event conducted by IEEE CIS Chapter, GHRCE. The event was solely organised for all memebers of the CIS chapter. 
 
 The objectives of the event were 
 * To improve information analysis of the members 
