@@ -33,10 +33,10 @@ The objectives of the event were
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
 
 ## Life of Open Source
-***Date*** DD MMM 2020
+***Date*** 14th Mar 2020
 
 ***Description***
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+IEEE Computational Intelligence Society in collaboration with Microsoft Student Partners successfully conducted an event ‘Life Of Open Source’ at G. H. Raisoni. College of Engineeing at 12:30. It was a one day workshop which introduced the participants about the Version Control System (VCS) using Git and GitHub. Mr. Siddhinath Taldhi, Webmaster IEEE CIS,  took the lead as the facilitator for the workshop which made the session more lively and dynamic. Around 50 participants had enrolled for the event.
 
 ## Learn While Corona 
 ***Date*** DD MMM 2020
