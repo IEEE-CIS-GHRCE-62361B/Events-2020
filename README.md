@@ -39,7 +39,6 @@ A	great amount of knowledge was shared about Cloud Computing by Mr.Rahul Deshmuk
 ***Description***
 IEEE Computational Intelligence Society in collaboration with Microsoft Student Partners successfully conducted an event ‘Life Of Open Source’ at G.H.Raisoni College of Engineeing It was a one day workshop which introduced the participants about the Version Control System (VCS) using Git and GitHub. Mr. Siddhinath Taldhi, Webm aster IEEE CIS, took the lead as the facilitator for the workshop which made the session more lively and dynamic.Around 50 participants had enrolled for the event. A Kahoot quiz was arranged at the end where the winners were gifted goodies swag by Microsoft.The winner also shared his views and opinion on the event.The entire event was organised by students under the leadership of Mr. Vedant Bahel,Chair IEEE CIS and with the coordination of Prof.A.Thomas,the chapter advisor.At the end,the certificates were given to all the participants which was followed by group photo session.
 
-
 ## Learn While Corona 
 ***Date*** 15th March 2020
 
