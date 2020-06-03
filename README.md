@@ -27,27 +27,30 @@ The objectives of the event were
 * To improve presentation skills of the members
 
 ## AI Summit
-***Date*** DD MMM 2020
+***Date*** 6th,7th March 2020
 
 ***Description***
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+INTERNATIONAL AI SUMMIT 2.0 was organised at GH RAISONI COLLEGE OF ENGINEERING on 6th and 7th March.The event brought a huge number of well-known personalities from across the globe.From book release to power talks it had all the components which made the event fabulous. Great speakers like Dr.Sheela Siddappa and Dr.Satish Raghvendran talked about the new age technology and how to adapt to it and majorly focusing on development with AI in the international market.
+A	great amount of knowledge was shared about Cloud Computing by Mr.Rahul Deshmukh.Blockchain and uses in modern world were discussed by Mr.Pankaj Mittal.He also told about how to go through blockchain and promote it as a career.The event was fortunate to have foreign speakers such as Dawuda Iddrisu and Gerd Moeekel who inspired many by talking about the applications of AI.Overall it was mind-blowing event which covered all the important topics which are required to be known in the field of AI.
 
 ## Life of Open Source
-***Date*** 14th Mar 2020
+***Date*** 14th March 2020
 
 ***Description***
-IEEE Computational Intelligence Society in collaboration with Microsoft Student Partners successfully conducted an event ‘Life Of Open Source’ at G. H. Raisoni. College of Engineeing at 12:30. It was a one day workshop which introduced the participants about the Version Control System (VCS) using Git and GitHub. Mr. Siddhinath Taldhi, Webmaster IEEE CIS,  took the lead as the facilitator for the workshop which made the session more lively and dynamic. Around 50 participants had enrolled for the event.
+IEEE Computational Intelligence Society in collaboration with Microsoft Student Partners successfully conducted an event ‘Life Of Open Source’ at G.H.Raisoni College of Engineeing It was a one day workshop which introduced the participants about the Version Control System (VCS) using Git and GitHub. Mr. Siddhinath Taldhi, Webm aster IEEE CIS, took the lead as the facilitator for the workshop which made the session more lively and dynamic.Around 50 participants had enrolled for the event. A Kahoot quiz was arranged at the end where the winners were gifted goodies swag by Microsoft.The winner also shared his views and opinion on the event.The entire event was organised by students under the leadership of Mr. Vedant Bahel,Chair IEEE CIS and with the coordination of Prof.A.Thomas,the chapter advisor.At the end,the certificates were given to all the participants which was followed by group photo session.
 
 ## Learn While Corona 
-***Date*** DD MMM 2020
+***Date*** 15th March 2020
 
 ***Description***
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+IEEE CIS has a firm believe that students should use their time to learn something new and to follow this believe the chapter started with Learn While Corona program on 15th March 2020 in association with Datacamp.com. Under this 700+ students were provided free online courses in field of Machine Learning using Python & R.In these tough times of COVID-19, we have decided to volunteer and service.
 
 ## Industry Connect 1.0
+***Date*** 25th,26th,27th April 2020
 
 ***Description***
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+IEEE CIS SBC conducted an event named “INDUSTRY CONNECT 1.0”. The event was held for three days from 25th -27th April. Three different renowned speakers spoke on the topics -the role of community groups in student’s life, bridging the gap: industry demand for freshers and from corporate to startup. This event was conducted so that the students can gain knowledge on different topics as well as raise some funds for PM care funds to fight the Covid-19 pandemic.
+
 
 ### Support or Contact
 
