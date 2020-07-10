@@ -51,6 +51,12 @@ IEEE CIS has a firm believe that students should use their time to learn somethi
 ***Description***
 IEEE CIS SBC conducted an event named “INDUSTRY CONNECT 1.0”. The event was held for three days from 25th -27th April. Three different renowned speakers spoke on the topics -the role of community groups in student’s life, bridging the gap: industry demand for freshers and from corporate to startup. This event was conducted so that the students can gain knowledge on different topics as well as raise some funds for PM care funds to fight the Covid-19 pandemic.
 
+## Webinar Data Cleaning for ML Services
+***Date*** 5th July 2020
+
+***Description***
+
+
 
 ### Support or Contact
 
