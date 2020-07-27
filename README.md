@@ -55,7 +55,20 @@ IEEE CIS SBC conducted an event named “INDUSTRY CONNECT 1.0”. The event was 
 ***Date*** 5th July 2020
 
 ***Description***
+Data is one of the important features of every organization because it helps business leaders to make decisions based on facts, statistical numbers and trends. Data science is an extension of various data analysis fields such as data mining, statistics, predictive analysis and many more.
+Data cleaning is important because it improves your data quality and in doing so, increases overall productivity. When you clean your data, all outdated or incorrect information is gone – leaving you with the highest quality information.
+We the team of IEEE CIS SBC- GHRCE understood that if the growth of data science with the use of machine learning increasing techniques is increasing exponentially we must throw light on the topic. As a result we organized a webinar which focused on cleaning the data and machine learning and how both the fields can work together.
+The event was conducted by Dr. Gopal Sakarkar .
 
+IEEE CIS Chapter and  G. H. Raisoni College of Engineering, Nagpur had organized a webinar on
+Data cleaning techniques using Machine Learning Algorithms on 5th July 2020. This workshop was the first event conducted by IEEE CIS Chapter, GHRCE. The workshop was to get familiar with Data Cleaning techniques such as to identify and remove errors & duplicate data, in order to create a reliable dataset. To improve the quality of the training data for analytics and enable accurate decision-making and is helpful for students who have just started or want to start Machine Learning or Data Science.
+The workshop covered:
+.Data Cleaning
+.Data Integration 
+.Data Transformation
+.Data Reduction
+.Data Discretization
+Attendees received an in-depth training on ‘how to preprocess the data’, a collection of data pre-processing steps such as data rescaling, data standardization, data normalization, data binarization etc. The team IEEE CIS Chapter, GHRCE trained total 150+ students of various colleges all over the India. There were more than 30 students foregin students who had participated in this webinar. E-Certificates were provided to all the participants. The students learned how to preprocess the data for making it compatible for Machine Learning Algorithms. The team IEEE CIS Chapter, GHRCE, Dr. Gopal Sakarkar and A. Thomas (Head- Artificial Intelligence) worked hard to make this event a great success.
 
 
 ### Support or Contact
