@@ -67,7 +67,8 @@ The workshop covered:
 - Data Integration
 - Data Transformation
 - Data Reduction
-- Data Discretization
+- Data Discretization      
+     
 Attendees received an in-depth training on ‘how to preprocess the data’, a collection of data pre-processing steps such as data rescaling, data standardization, data normalization, data binarization etc. The team IEEE CIS Chapter, GHRCE trained total 150+ students of various colleges all over the India. There were more than 30 students foregin students who had participated in this webinar. E-Certificates were provided to all the participants. The students learned how to preprocess the data for making it compatible for Machine Learning Algorithms. The team IEEE CIS Chapter, GHRCE, Dr. Gopal Sakarkar and A. Thomas (Head- Artificial Intelligence) worked hard to make this event a great success.    
 
 ## SheHacks
@@ -88,7 +89,7 @@ AI is “A core, transformative way by which we are Re-thinking how we’re doin
 Participants from different countries shared their opinion about AI,
 listened to others and boosted knowledge in different aspects of Artificial Intelligence.   
 
-    
+
 ### Support or Contact
 
 Having doubts, queries or questions?
