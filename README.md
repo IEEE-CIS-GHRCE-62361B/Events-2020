@@ -5,11 +5,11 @@ This repository contains the events held by IEEE CIS SBC - GHRCE in the year 202
 ## Alexa Skill Development Workshop & Hackathon
 ***Date-*** 11th Jan 2020
 
-***Description-*** 
+***Description-***
 IEEE CIS SBC- GHRCE had organized a workshop on Alexa Skill Development Workshop and Hackathon on 11th January 2020. This workshop was the first event conducted by IEEE CIS Chapter, GHRCE. The workshop was to introduce the basic development skill required for creating new Alexa skills and was helpful for students who have just started or want to start building skills for Alexa.
 The workshop covered:
 * Voice-based smart systems
-* Customized skills development 
+* Customized skills development
 * Alexa Skills Developers Skills
 * Alexa Skill based Hackathon<br><br>Attendees received an in-depth training on ‘how to build skills with Alexa Skills Kit (ASK)’, a collection of self-service API’s, tools, documentation and code samples that make it fast and easy to add skills to alexa. The team IEEE CIS Chapter trained total 80+ students of First Year Department to Third Year Department including AI, CSE, IT, EE department. The students were able to develop the new Alexa skills. The team IEEE CIS Chapter under guidance of then Chapter Advisor Prof. Sofia Pillai and A. Thomas (Head- Artifical Intelligence) worked hard to make this event a great success.
 
@@ -19,10 +19,10 @@ The workshop covered:
 ***Date*** 24th Jan 2020
 
 ***Description***
-IEEE CIS SBC-GHRCE had organized a Round table discussion on A.I and it’s Security Aspects on 24th January 2020. The event was conducted under IEEE CIS Chapter – GHRCE. This was the second event conducted by IEEE CIS Chapter, GHRCE. The event was solely organised for all memebers of the CIS chapter. 
+IEEE CIS SBC-GHRCE had organized a Round table discussion on A.I and it’s Security Aspects on 24th January 2020. The event was conducted under IEEE CIS Chapter – GHRCE. This was the second event conducted by IEEE CIS Chapter, GHRCE. The event was solely organised for all memebers of the CIS chapter.
 
-The objectives of the event were 
-* To improve information analysis of the members 
+The objectives of the event were
+* To improve information analysis of the members
 * To improve communication skills of the members
 * To improve presentation skills of the members
 
@@ -39,7 +39,7 @@ A	great amount of knowledge was shared about Cloud Computing by Mr.Rahul Deshmuk
 ***Description***
 IEEE Computational Intelligence Society in collaboration with Microsoft Student Partners successfully conducted an event ‘Life Of Open Source’ at G.H.Raisoni College of Engineeing It was a one day workshop which introduced the participants about the Version Control System (VCS) using Git and GitHub. Mr. Siddhinath Taldhi, Webm aster IEEE CIS, took the lead as the facilitator for the workshop which made the session more lively and dynamic.Around 50 participants had enrolled for the event. A Kahoot quiz was arranged at the end where the winners were gifted goodies swag by Microsoft.The winner also shared his views and opinion on the event.The entire event was organised by students under the leadership of Mr. Vedant Bahel,Chair IEEE CIS and with the coordination of Prof.A.Thomas,the chapter advisor.At the end,the certificates were given to all the participants which was followed by group photo session.
 
-## Learn While Corona 
+## Learn While Corona
 ***Date*** 15th March 2020
 
 ***Description***
@@ -62,15 +62,33 @@ The event was conducted by Dr. Gopal Sakarkar .
 
 IEEE CIS Chapter and  G. H. Raisoni College of Engineering, Nagpur had organized a webinar on
 Data cleaning techniques using Machine Learning Algorithms on 5th July 2020. This workshop was the first event conducted by IEEE CIS Chapter, GHRCE. The workshop was to get familiar with Data Cleaning techniques such as to identify and remove errors & duplicate data, in order to create a reliable dataset. To improve the quality of the training data for analytics and enable accurate decision-making and is helpful for students who have just started or want to start Machine Learning or Data Science.
-The workshop covered:
-.Data Cleaning
-.Data Integration 
-.Data Transformation
-.Data Reduction
-.Data Discretization
-Attendees received an in-depth training on ‘how to preprocess the data’, a collection of data pre-processing steps such as data rescaling, data standardization, data normalization, data binarization etc. The team IEEE CIS Chapter, GHRCE trained total 150+ students of various colleges all over the India. There were more than 30 students foregin students who had participated in this webinar. E-Certificates were provided to all the participants. The students learned how to preprocess the data for making it compatible for Machine Learning Algorithms. The team IEEE CIS Chapter, GHRCE, Dr. Gopal Sakarkar and A. Thomas (Head- Artificial Intelligence) worked hard to make this event a great success.
+The workshop covered:   
+- Data Cleaning
+- Data Integration
+- Data Transformation
+- Data Reduction
+- Data Discretization
+Attendees received an in-depth training on ‘how to preprocess the data’, a collection of data pre-processing steps such as data rescaling, data standardization, data normalization, data binarization etc. The team IEEE CIS Chapter, GHRCE trained total 150+ students of various colleges all over the India. There were more than 30 students foregin students who had participated in this webinar. E-Certificates were provided to all the participants. The students learned how to preprocess the data for making it compatible for Machine Learning Algorithms. The team IEEE CIS Chapter, GHRCE, Dr. Gopal Sakarkar and A. Thomas (Head- Artificial Intelligence) worked hard to make this event a great success.    
 
+## SheHacks
+**_Date_**: 20th September to 17th October, 2020
+**_Description_**:   
+SheHacks is a hackathon exclusively for women to give them an opportunity to
+showcase their amazing skills. This is an opportunity to Win and to show that
+women can Analyze, Create and Deploy solutions of real life problem statements.
 
+## Tech-Convocation
+**_Date_**: 9th, 10th and 11th October, 2020    
+**_Description_**:  
+Tech convocation is an exhilarating platform to showcase your cognizance about
+Artificial Intelligence in various disciplines.   
+
+AI is “A core, transformative way by which we are Re-thinking how we’re doing everything.”    
+
+Participants from different countries shared their opinion about AI,
+listened to others and boosted knowledge in different aspects of Artificial Intelligence.   
+
+    
 ### Support or Contact
 
 Having doubts, queries or questions?
