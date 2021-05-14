@@ -29,7 +29,7 @@ The objectives of the event were
 ## AI Summit
 ***Date*** 6th,7th March 2020    
 <center>
-<img src="./Posters/AI Summit.png" width="600px" /><br>
+<img src="./Posters/AI Summit.png" width="600px" />
 <b>Poster 1.</b> The AI SUMMIT 2.0
 </center>    
 <br>
@@ -40,7 +40,7 @@ A	great amount of knowledge was shared about Cloud Computing by Mr.Rahul Deshmuk
 ## Life of Open Source
 ***Date*** 14th March 2020     
 <center>
-<img src="./Posters/Life of OS.png" width="600px" /><br>
+<img src="./Posters/Life of OS.png" width="600px" />
 <b>Poster 2.</b> Life of OS
 </center>    
 <br>
@@ -56,7 +56,7 @@ IEEE CIS has a firm believe that students should use their time to learn somethi
 ## Industry Connect 1.0
 ***Date*** 25th,26th,27th April 2020      
 <center>
-<img src="./Posters/Industry connect 1.0.png" width="600px" /><br>
+<img src="./Posters/Industry connect 1.0.png" width="600px" />
 <b>Poster 3.</b> Industry Connect 1.0
 </center>    
 <br>
@@ -66,7 +66,7 @@ IEEE CIS SBC conducted an event named “INDUSTRY CONNECT 1.0”. The event was 
 ## Webinar Data Cleaning for ML Services
 ***Date*** 5th July 2020      
 <center>
-<img src="./Posters/Data Cleaning services in Machine Learning Algorithms.png" width="600px" /><br>
+<img src="./Posters/Data Cleaning services in Machine Learning Algorithms.png" width="600px" />
 <b>Poster 4.</b> Webinar for Data Cleaning
 </center>   
 <br>
@@ -90,7 +90,7 @@ Attendees received an in-depth training on ‘how to preprocess the data’, a c
 ## SheCodes   
 **_Date_**: 5th August to 17th October, 2020     
 <center>
-<img src="./Posters/Shecodes.png" width="600px" /><br>
+<img src="./Posters/Shecodes.png" width="600px" />
 <b>Poster 5.</b> She Codes
 </center>   
 <br>
@@ -112,7 +112,7 @@ women can Analyze, Create and Deploy solutions of real life problem statements.
 ## Tech-Convocation
 **_Date_**: 9th, 10th and 11th October, 2020    
 <center>
-<img src="./Posters/TECH CONVOCATION.png" width="600px" /><br>
+<img src="./Posters/TECH CONVOCATION.png" width="600px" />
 <b>Poster 6.</b> Tech-Convocation
 </center>   
 <br>
