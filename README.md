@@ -68,8 +68,18 @@ The workshop covered:
 - Data Transformation
 - Data Reduction
 - Data Discretization      
-     
+
 Attendees received an in-depth training on ‘how to preprocess the data’, a collection of data pre-processing steps such as data rescaling, data standardization, data normalization, data binarization etc. The team IEEE CIS Chapter, GHRCE trained total 150+ students of various colleges all over the India. There were more than 30 students foregin students who had participated in this webinar. E-Certificates were provided to all the participants. The students learned how to preprocess the data for making it compatible for Machine Learning Algorithms. The team IEEE CIS Chapter, GHRCE, Dr. Gopal Sakarkar and A. Thomas (Head- Artificial Intelligence) worked hard to make this event a great success.    
+
+## SheCodes   
+**_Date_**: 5th August to 17th October, 2020
+**_Description_**:   
+SheCodes is an exciting platform for women to Explore,Collaborate & Deploy
+Machine Learning algorithms in Real life application.   
+The efforts are being made by SheCodes to ” Bridging the Gender-gap” towards
+technology and bringing out the creativity and innovation among women.   
+SheCodes provide useful skills to start new journey toward Artificial Intelligence
+and Machine Learning that will be helpful to cope up with the upcoming technological advances.    
 
 ## SheHacks
 **_Date_**: 20th September to 17th October, 2020
